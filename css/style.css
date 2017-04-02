@@ -1,0 +1,16 @@
+body {
+    background-color: bisque;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+p {
+    font-weight: bold;
+    text-align: justify;
+}
+.wiersz {
+    font-style: italic;
+}
